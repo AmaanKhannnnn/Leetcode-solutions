@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -38,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
