@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
