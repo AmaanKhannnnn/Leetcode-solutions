@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3838-weighted-word-mapping](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
