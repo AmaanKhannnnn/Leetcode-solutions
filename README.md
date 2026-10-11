@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3019-number-of-changing-keys](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3838-weighted-word-mapping](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
