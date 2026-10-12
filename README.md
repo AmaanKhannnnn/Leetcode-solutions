@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3340-check-balanced-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3838-weighted-word-mapping](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
