@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String Matching
 |  |
