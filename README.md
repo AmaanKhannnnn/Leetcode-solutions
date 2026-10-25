@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3174-clear-digits) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
