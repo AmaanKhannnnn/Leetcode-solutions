@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3174-clear-digits) |
 | [3838-weighted-word-mapping](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
