@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1528-shuffle-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
