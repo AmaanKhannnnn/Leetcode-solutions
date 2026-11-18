@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1748-sum-of-unique-elements](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1748-sum-of-unique-elements](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
