@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
