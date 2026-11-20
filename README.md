@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
