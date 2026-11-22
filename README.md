@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/AmaanKhannnnn/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
